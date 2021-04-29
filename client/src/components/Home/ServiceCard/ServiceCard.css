@@ -1,0 +1,12 @@
+.service-img {
+  transform: scale(1);
+  transition: 0.5s ease-in-out;
+}
+
+.service-img-div {
+  overflow: hidden;
+}
+
+.service-img-div:hover img {
+  transform: scale(1.3);
+}

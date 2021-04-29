@@ -1,0 +1,45 @@
+a {
+  color: #01a3a3 !important;
+  text-decoration: none !important;
+}
+
+nav ul li {
+  padding: 10px;
+}
+
+nav ul li a {
+  color: #01a3a3 !important;
+  font-weight: 700 !important;
+}
+
+nav ul li a:hover {
+  color: #05e0e0 !important;
+}
+
+.bg-first-color {
+  background-color: #01a3a3;
+}
+
+.first-color {
+  color: #01a3a3 !important;
+}
+
+.second-color {
+  color: #05e0e0;
+}
+
+.btn-first-color {
+  background-color: #01a3a3;
+  color: white;
+}
+
+.btn-first-color:hover {
+  background-color: #05e0e0;
+  color: white;
+}
+
+.title {
+  text-decoration: underline;
+  text-decoration-color: #01a3a3;
+  text-underline-offset: 10px;
+}

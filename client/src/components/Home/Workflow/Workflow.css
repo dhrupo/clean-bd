@@ -1,0 +1,8 @@
+.workflow-bg {
+  background: linear-gradient(
+      45deg,
+      rgba(29, 14, 170, 0.7),
+      rgba(105, 89, 255, 0.6)
+    ),
+    url(../../../images/workflow-bg.jpg) no-repeat fixed center / cover;
+}
